@@ -1,2 +1,2 @@
-# infoHub-ota-updates
-releases of infoHub app
+# pulsecore-ota-updates
+releases of PulseCore app
