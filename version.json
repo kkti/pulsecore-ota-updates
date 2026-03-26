@@ -1,5 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://raw.githubusercontent.com/kkti/infoHub-ota-updates/main/InfoHUB_v2.bin",
-  "mandatory": false
+  "version": "1.0.4",
+  "url": "https://kodybase.com/ota/PulseCore.bin",
+  "mandatory": false,
+  "sha256": "bba17fffb52afdfb3a0475ee9359a29cc71b467bab21a73e552512dba8f6e7a0",
+  "generated_at_utc": "2026-03-26T20:21:46Z"
 }
